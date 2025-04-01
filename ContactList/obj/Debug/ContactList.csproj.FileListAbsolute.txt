@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\bin\Debug\ContactList.exe
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\bin\Debug\ContactList.pdb
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.AddContactForm.resources
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.Form1.resources
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.exe
+C:\Users\Admin\Desktop\contact-list-winforms\ContactList\obj\Debug\ContactList.pdb
