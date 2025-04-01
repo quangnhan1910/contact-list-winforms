@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\",
   "Documents": [
     {
@@ -16,6 +17,24 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|C:\\Users\\Danh\\Desktop\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|c:\\users\\admin\\desktop\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|C:\\Users\\Admin\\Desktop\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|C:\\Users\\Admin\\Desktop\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|C:\\Users\\Admin\\Desktop\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{30E0D997-B452-4039-A8EB-78884C179318}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,19 +45,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+<<<<<<< Updated upstream
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
               "ToolTip": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs",
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "ContactList\\MainForm.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAEwBsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +84,15 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AddContactForm.cs",
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
               "ToolTip": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "ContactList\\AddContactForm.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAEwBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,9 +103,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AddContactForm.cs [Design]",
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
               "ToolTip": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
+=======
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
+>>>>>>> Stashed changes
               "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T06:03:29.933Z",
@@ -73,7 +121,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainForm.cs [Design]",
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\Danh\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs",
+>>>>>>> Stashed changes
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
               "ToolTip": "C:\\Users\\letra\\OneDrive\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\letra\\OneDrive\\Desktop\\contact-list-winforms\\ContactList\\MainForm.cs [Design]",
